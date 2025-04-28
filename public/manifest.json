@@ -3,6 +3,8 @@
   "name": "Tab Title Modifier",
   "version": "1.0.0",
   "description": "Modify and save custom tab titles",
+  "author": "Tab Title Modifier Contributors",
+  "license": "GPL-3.0",
   "permissions": ["tabs", "storage", "activeTab"],
   "action": {
     "default_popup": "index.html",
